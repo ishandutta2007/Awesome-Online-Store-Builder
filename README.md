@@ -105,6 +105,17 @@ Star the repo if you find it useful!
 - Self-hosted open-source solutions require technical maintenance, hosting, security, and backups.
 - Payment processing and tax compliance should be handled carefully in any ecommerce setup.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Online-Store-Builder&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Online-Store-Builder&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Online-Store-Builder&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Online-Store-Builder&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for entrepreneurs, developers, e-commerce store owners, and indie hackers.**  
