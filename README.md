@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Online Store Builder Banner" width="100%">
 </p>
 
-# Awesome-Online-Store-Builder
-## Top Online Shop Builders Ecosystem
+# 🛍️ Awesome-Online-Store-Builder
+## 🚀 Top Online Shop Builders Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Ecommerce Store Builders, Online Shops & Digital Retail Platforms*  
@@ -17,13 +17,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📋 Table of Contents
+- [💼 SaaS Products](#saas-products)
+- [💻 Open-Source GitHub Projects](#open-source-github-projects)
+- [🤝 How to Contribute](#how-to-contribute)
+- [⚠️ Disclaimer](#disclaimer)
 
-## SaaS Products
+## 💼 SaaS Products
 
 ### Core Platforms (Online Shop Builders)
 
@@ -39,7 +39,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Other notable mentions**: BigCommerce, Squarespace, and various niche ecommerce builders.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 ### Dedicated Online Shop Builders
 
@@ -84,7 +84,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom shops**: Combine **MedusaJS**, **Saleor**, or **WooCommerce** with **Next.js** and **Stripe** for fully open, high-performance online stores.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -93,7 +93,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Self-hosted open-source solutions require technical maintenance, hosting, security, and backups.
