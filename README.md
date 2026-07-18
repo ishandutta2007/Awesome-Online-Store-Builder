@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Online Store Builder Banner" width="100%">
+</p>
+
 # Awesome-Online-Store-Builder
 ## Top Online Shop Builders Ecosystem
 

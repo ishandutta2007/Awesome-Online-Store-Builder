@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="50%" stop-color="#311042" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    
+    <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" />
+      <stop offset="50%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#fb7185" />
+    </linearGradient>
+
+    <linearGradient id="glow-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#db2777" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      @keyframes pulse {
+        0%, 100% { transform: scale(1); opacity: 0.9; }
+        50% { transform: scale(1.03); opacity: 1; filter: drop-shadow(0 0 15px rgba(129, 140, 248, 0.6)); }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-6px) rotate(3deg); }
+      }
+      @keyframes shimmer {
+        0% { stop-color: #818cf8; }
+        33% { stop-color: #c084fc; }
+        66% { stop-color: #fb7185; }
+        100% { stop-color: #818cf8; }
+      }
+      @keyframes slow-bg {
+        0%, 100% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+      }
+      
+      .banner-bg {
+        fill: url(#bg-gradient);
+      }
+      
+      .animated-glow {
+        animation: pulse 4s ease-in-out infinite;
+        transform-origin: 100px 100px;
+      }
+      
+      .floating-icon {
+        animation: float 6s ease-in-out infinite;
+        transform-origin: 100px 100px;
+      }
+
+      .text-title {
+        font-family: 'Outfit', 'Inter', system-ui, -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 38px;
+        fill: #ffffff;
+      }
+
+      .text-accent {
+        fill: url(#accent-gradient);
+      }
+
+      .text-subtitle {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-size: 16px;
+        fill: #94a3b8;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+      }
+
+      .badge {
+        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        fill: #ffffff;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="16" class="banner-bg" />
+  
+  <!-- Subtle background grid/pattern -->
+  <g opacity="0.05">
+    <path d="M 0,20 L 800,20 M 0,40 L 800,40 M 0,60 L 800,60 M 0,80 L 800,80 M 0,100 L 800,100 M 0,120 L 800,120 M 0,140 L 800,140 M 0,160 L 800,160 M 0,180 L 800,180" stroke="#ffffff" stroke-width="1"/>
+    <path d="M 40,0 L 40,200 M 80,0 L 80,200 M 120,0 L 120,200 M 160,0 L 160,200 M 200,0 L 200,200 M 240,0 L 240,200 M 280,0 L 280,200 M 320,0 L 320,200 M 360,0 L 360,200 M 400,0 L 400,200 M 440,0 L 440,200 M 480,0 L 480,200 M 520,0 L 520,200 M 560,0 L 560,200 M 600,0 L 600,200 M 640,0 L 640,200 M 680,0 L 680,200 M 720,0 L 720,200 M 760,0 L 760,200" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative glow under the shop icon -->
+  <circle cx="100" cy="100" r="70" fill="url(#glow-gradient)" opacity="0.3" class="animated-glow" />
+
+  <!-- Shop / Bag / Cart Icon -->
+  <g class="floating-icon">
+    <!-- Outer Hexagon / Platform Base -->
+    <polygon points="100,45 140,68 140,115 100,138 60,115 60,68" fill="none" stroke="url(#accent-gradient)" stroke-width="3" stroke-linejoin="round" />
+    
+    <!-- Inner Shopping Bag Details -->
+    <path d="M 85,80 L 85,110 C 85,113 87,115 90,115 L 110,115 C 113,115 115,113 115,110 L 115,80 Z" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" />
+    <path d="M 91,80 C 91,73 109,73 109,80" fill="none" stroke="#ffffff" stroke-width="2.5" />
+    <line x1="80" y1="80" x2="120" y2="80" stroke="url(#accent-gradient)" stroke-width="3" stroke-linecap="round" />
+    
+    <!-- Sparkles -->
+    <path d="M 135,50 L 137,55 L 142,57 L 137,59 L 135,64 L 133,59 L 128,57 L 133,55 Z" fill="#fb7185" opacity="0.8" />
+    <path d="M 55,130 L 56,133 L 59,134 L 56,135 L 55,138 L 54,135 L 51,134 L 54,133 Z" fill="#818cf8" opacity="0.8" />
+  </g>
+
+  <!-- Typography / Titles -->
+  <text x="180" y="88" class="text-title">
+    Awesome <tspan class="text-accent">Online Store</tspan> Builder
+  </text>
+  
+  <text x="180" y="118" class="text-subtitle">
+    Curated List of SaaS Platforms &amp; Open-Source Shop Ecosystems
+  </text>
+
+  <!-- Badge / Tags -->
+  <g transform="translate(180, 142)">
+    <rect width="90" height="22" rx="11" fill="#312e81" opacity="0.8" stroke="#4338ca" stroke-width="1"/>
+    <text x="45" y="15" text-anchor="middle" class="badge">ECOMMERCE</text>
+  </g>
+  <g transform="translate(280, 142)">
+    <rect width="95" height="22" rx="11" fill="#1e1b4b" opacity="0.8" stroke="#3730a3" stroke-width="1"/>
+    <text x="47.5" y="15" text-anchor="middle" class="badge">OPEN-SOURCE</text>
+  </g>
+  <g transform="translate(385, 142)">
+    <rect width="65" height="22" rx="11" fill="#581c87" opacity="0.8" stroke="#6b21a8" stroke-width="1"/>
+    <text x="32.5" y="15" text-anchor="middle" class="badge">SAAS</text>
+  </g>
+</svg>
