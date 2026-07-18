@@ -23,13 +23,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Online Shop Builders)
 
-| Product | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Shopify](https://www.shopify.com/)** | Leading ecommerce platform with powerful themes, apps, and built-in checkout for fast store creation. | Starts at $39/month (Basic plan, or $29/mo if billed annually). Special trial promos often offer $1/month for the first 3 months. | No permanent free tier. Offers a 3-day free trial (no credit card required) to build and test your store. |
-| **[Wix](https://www.wix.com/)** | Drag-and-drop website builder with strong ecommerce capabilities and AI-assisted design. | Business/Ecommerce plans start at $27/month (billed annually). | Free plan available. Limits: 500 MB storage, 1 GB bandwidth, Wix-branded subdomain, Wix ads displayed, and no online payment processing. |
-| **[WooCommerce](https://woocommerce.com/)** | Popular WordPress-based ecommerce solution with extensive plugins and flexibility. | Core plugin is free. Running a store typically costs $10–$50+/month for hosting, domain, and premium extensions. | Free core plugin (self-hosted). No SaaS limits, but requires self-paid hosting and domain. |
-| **[Zupain](https://zupain.com/)** | Modern online shop builder focused on user-friendly design and quick setup. | Plans start at approximately ₹499 - ₹999/month (or ₹6,999/year). | No permanent free tier. Custom onboarding and store setup services. |
-| **[Catafy](https://catafy.com/)** | AI-enhanced platform for building and managing online stores with smart recommendations. | Paid plans start at approximately ₹499/month. | No permanent free tier. Offers a free trial with no credit card required. |
+| Product | Description | Pricing | Free Tier Limit | Company Size (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify](https://www.shopify.com/)** | Leading ecommerce platform with powerful themes, apps, and built-in checkout for fast store creation. | Starts at $39/month (Basic plan, or $29/mo if billed annually). Special trial promos often offer $1/month for the first 3 months. | No permanent free tier. Offers a 3-day free trial (no credit card required) to build and test your store. | Valuation: ~$100B+ / Revenue: ~$11.6B/yr |
+| **[WooCommerce](https://woocommerce.com/)** | Popular WordPress-based ecommerce solution with extensive plugins and flexibility. | Core plugin is free. Running a store typically costs $10–$50+/month for hosting, domain, and premium extensions. | Free core plugin (self-hosted). No SaaS limits, but requires self-paid hosting and domain. | Valuation: ~$7.5B (Automattic) / Revenue: ~$710M–$890M/yr |
+| **[Wix](https://www.wix.com/)** | Drag-and-drop website builder with strong ecommerce capabilities and AI-assisted design. | Business/Ecommerce plans start at $27/month (billed annually). | Free plan available. Limits: 500 MB storage, 1 GB bandwidth, Wix-branded subdomain, Wix ads displayed, and no online payment processing. | Valuation: ~$2.1B / Revenue: ~$2.06B/yr |
+| **[Zupain](https://zupain.com/)** | Modern online shop builder focused on user-friendly design and quick setup. | Plans start at approximately ₹499 - ₹999/month (or ₹6,999/year). | No permanent free tier. Custom onboarding and store setup services. | Valuation: Early-stage / Revenue: <$1.2M/yr |
+| **[Catafy](https://catafy.com/)** | AI-enhanced platform for building and managing online stores with smart recommendations. | Paid plans start at approximately ₹499/month. | No permanent free tier. Offers a free trial with no credit card required. | Valuation: Early-stage / Revenue: <$600k/yr |
 
 ### Advanced & Specialized Platforms
 
