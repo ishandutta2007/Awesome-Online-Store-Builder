@@ -39,43 +39,43 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Online Shop Builders
 
-- **[WooCommerce](https://github.com/woocommerce/woocommerce)**  
-  The most popular open-source ecommerce plugin for WordPress, offering full store building with themes, plugins, and complete code ownership.
-
-- **[MedusaJS](https://github.com/medusajs/medusa)**  
+- **[MedusaJS](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   Modern headless commerce engine built with Node.js. Highly flexible for custom online shops with admin panel and API-first architecture.
 
-- **[Saleor](https://github.com/saleor/saleor)**  
+- **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   Open-source headless ecommerce platform with GraphQL API, excellent for building high-performance online stores.
 
-- **[Vendure](https://github.com/vendure-ecommerce/vendure)**  
-  TypeScript-based headless commerce framework designed for developer control and customization.
-
-- **[Bagisto](https://github.com/bagisto/bagisto)**  
-  Laravel-based open-source ecommerce platform with multi-vendor and marketplace capabilities.
-
-- **[Spree Commerce](https://github.com/spree/spree)**  
+- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   Ruby on Rails open-source ecommerce framework with REST API and modern storefront options.
 
-- **[Sylius](https://github.com/Sylius/Sylius)**  
-  Symfony-based open-source ecommerce framework focused on flexibility and customization.
+- **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** [![GitHub stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers) (and forks)  
+  Open-source headless commerce platform suitable for custom online shop experiences.
 
-- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)**  
+- **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
+  The most popular open-source ecommerce plugin for WordPress, offering full store building with themes, plugins, and complete code ownership.
+
+- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** [![GitHub stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)  
   Full-featured open-source ecommerce solution with a large module ecosystem.
 
-- **[OpenCart](https://github.com/opencart/opencart)**  
+- **[Sylius](https://github.com/Sylius/Sylius)** [![GitHub stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)  
+  Symfony-based open-source ecommerce framework focused on flexibility and customization.
+
+- **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)  
+  TypeScript-based headless commerce framework designed for developer control and customization.
+
+- **[OpenCart](https://github.com/opencart/opencart)** [![GitHub stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)  
   Lightweight open-source ecommerce platform with easy setup and extensions.
 
-- **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** (and forks)  
-  Open-source headless commerce platform suitable for custom online shop experiences.
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+  Laravel-based open-source ecommerce platform with multi-vendor and marketplace capabilities.
 
 ### Additional Strong Open-Source Options
 
-- **[Odoo](https://github.com/odoo/odoo)** — Full open-source ERP with powerful ecommerce modules.
-- **[ERPNext](https://github.com/frappe/erpnext)** — Open-source ERP with online store capabilities.
+- **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) — Full open-source ERP with powerful ecommerce modules.
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) — Open-source ERP with online store capabilities.
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers) — Open-source low-code platform for building custom shop admin panels.
 - **[Saleor + Next.js** storefront starters for headless shops.
 - **[MedusaJS + Next.js** templates for modern, developer-friendly stores.
-- **[Budibase](https://github.com/Budibase/budibase)** — Open-source low-code platform for building custom shop admin panels.
 - Many community **headless commerce** starters and multi-vendor solutions.
 
 **Frameworks for building custom shops**: Combine **MedusaJS**, **Saleor**, or **WooCommerce** with **Next.js** and **Stripe** for fully open, high-performance online stores.
