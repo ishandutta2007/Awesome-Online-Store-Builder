@@ -85,6 +85,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
   Laravel-based open-source ecommerce platform with multi-vendor and marketplace capabilities.
 
+- **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
+  Mature PHP ecommerce platform for building highly customizable online stores.
+
+- **[Shopware](https://github.com/shopware/shopware)** [![GitHub stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)  
+  Open-source, API-first commerce platform built with Symfony and Vue, supporting traditional and headless storefronts.
+
+- **[Drupal Commerce](https://github.com/drupalcommerce/commerce)** [![GitHub stars](https://img.shields.io/github/stars/drupalcommerce/commerce?style=social&color=white)](https://github.com/drupalcommerce/commerce/stargazers)  
+  Flexible ecommerce framework for Drupal, suited to content-rich storefronts and custom commerce workflows.
+
+- **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+  Ruby on Rails open-source ecommerce platform and active fork of Spree, built for deeply customized stores.
+
+- **[Aimeos](https://github.com/aimeos/aimeos-core)** [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-core?style=social&color=white)](https://github.com/aimeos/aimeos-core/stargazers)  
+  High-performance PHP ecommerce framework for online stores, marketplaces, and B2B applications.
+
 ### Additional Strong Open-Source Options
 
 - **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) — Full open-source ERP with powerful ecommerce modules.
