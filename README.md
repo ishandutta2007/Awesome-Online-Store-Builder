@@ -82,6 +82,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[OpenCart](https://github.com/opencart/opencart)** [![GitHub stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)  
   Lightweight open-source ecommerce platform with easy setup and extensions.
 
+- **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+  Ruby on Rails open-source ecommerce platform and active fork of Spree, built for deeply customized stores.
+
+- **[Aimeos](https://github.com/aimeos/aimeos-core)** [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-core?style=social&color=white)](https://github.com/aimeos/aimeos-core/stargazers)  
+  High-performance PHP ecommerce framework for online stores, marketplaces, and B2B applications.
+
 - **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
   Laravel-based open-source ecommerce platform with multi-vendor and marketplace capabilities.
 
@@ -93,12 +99,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[Drupal Commerce](https://github.com/drupalcommerce/commerce)** [![GitHub stars](https://img.shields.io/github/stars/drupalcommerce/commerce?style=social&color=white)](https://github.com/drupalcommerce/commerce/stargazers)  
   Flexible ecommerce framework for Drupal, suited to content-rich storefronts and custom commerce workflows.
-
-- **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
-  Ruby on Rails open-source ecommerce platform and active fork of Spree, built for deeply customized stores.
-
-- **[Aimeos](https://github.com/aimeos/aimeos-core)** [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-core?style=social&color=white)](https://github.com/aimeos/aimeos-core/stargazers)  
-  High-performance PHP ecommerce framework for online stores, marketplaces, and B2B applications.
 
 ### Additional Strong Open-Source Options
 
