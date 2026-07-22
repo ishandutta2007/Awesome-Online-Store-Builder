@@ -64,11 +64,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   Open-source headless ecommerce platform with GraphQL API, excellent for building high-performance online stores.
 
-- **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
-  Mature PHP ecommerce platform for building highly customizable online stores.
-
 - **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   Ruby on Rails open-source ecommerce framework with REST API and modern storefront options.
+
+- **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
+  Mature PHP ecommerce platform for building highly customizable online stores.
 
 - **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** [![GitHub stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers) (and forks)  
   Open-source headless commerce platform suitable for custom online shop experiences.
