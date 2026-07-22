@@ -58,8 +58,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[MedusaJS](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   Modern headless commerce engine built with Node.js. Highly flexible for custom online shops with admin panel and API-first architecture.
 
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+  Laravel-based open-source ecommerce platform with multi-vendor and marketplace capabilities.
+
 - **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   Open-source headless ecommerce platform with GraphQL API, excellent for building high-performance online stores.
+
+- **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
+  Mature PHP ecommerce platform for building highly customizable online stores.
 
 - **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   Ruby on Rails open-source ecommerce framework with REST API and modern storefront options.
@@ -87,12 +93,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[Aimeos](https://github.com/aimeos/aimeos-core)** [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-core?style=social&color=white)](https://github.com/aimeos/aimeos-core/stargazers)  
   High-performance PHP ecommerce framework for online stores, marketplaces, and B2B applications.
-
-- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
-  Laravel-based open-source ecommerce platform with multi-vendor and marketplace capabilities.
-
-- **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
-  Mature PHP ecommerce platform for building highly customizable online stores.
 
 - **[Shopware](https://github.com/shopware/shopware)** [![GitHub stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)  
   Open-source, API-first commerce platform built with Symfony and Vue, supporting traditional and headless storefronts.
